@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chapter1</string>
+    <string name="txt1">Bruschetta Recipe</string>
+    <string name="txt2">Just another test</string>
+    <string name="txtItem1" translatable="false">4 plum tomatos</string>
+    <string name="txtItem2" translatable="false">6 basil leaves</string>
+    <string name="txtItem4" translatable="false">3 TB olive oil</string>
+    <string name="txtItem3" translatable="false">3 garlic cloves, chopped</string>
+    <string name="txtMix" translatable="false">Combine the ingredients and add salt to taste. Add French toast bread</string>
+    <string name="txtTitle" translatable="false">Bruschetta Recipe</string>
+
+</resources>
